@@ -1,4 +1,5 @@
 //Navigation to a pre-specified target location using GPS and Compass
+//AUTHOR: LAKSHMI NAIR
 
 #include <stdio.h>
 #include <stdlib.h>
