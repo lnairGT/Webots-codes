@@ -5,6 +5,8 @@ The chosen behavior depends on the variable with higher value - Action
 Selection behavior coordination strategy
 */
 
+//AUTHOR: LAKSHMI NAIR
+
 #include <webots/robot.h>
 #include <webots/differential_wheels.h>
 #include <webots/camera.h>
