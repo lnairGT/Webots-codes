@@ -2,6 +2,8 @@
 //Action-selection behavior coordination of attachment and ingestive 
 //behaviors
 
+//AUTHOR: LAKSHMI NAIR
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
